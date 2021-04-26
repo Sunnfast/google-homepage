@@ -1,0 +1,33 @@
+/* CSS style sheet for Google Search page */
+
+html {
+    font-size: 120px;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+
+}
+
+#logo {
+  display:block;
+    justify-content: center;  
+}
+
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    font-size: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .nav-link {
+    text-decoration: none;
+    
+  }
